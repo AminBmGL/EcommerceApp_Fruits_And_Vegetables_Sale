@@ -1,4 +1,4 @@
-# Oshop
+# Organic shop (E-commerce for fruits and vegetables) 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
